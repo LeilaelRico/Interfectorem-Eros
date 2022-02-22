@@ -1,5 +1,5 @@
-# Interfectorem-Eros
-Proyecto para dar solución a Feedback de Zebrands.
+# Proyecto Feedback
+<img src="Logo.png" alt="Logo" width="25%"/>
 
 ### Equipo
 
